@@ -1,0 +1,15 @@
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\bin\Debug\net6.0\csharp-animals.exe
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\bin\Debug\net6.0\csharp-animals.deps.json
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\bin\Debug\net6.0\csharp-animals.runtimeconfig.json
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\bin\Debug\net6.0\csharp-animals.dll
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\bin\Debug\net6.0\csharp-animals.pdb
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.csproj.AssemblyReference.cache
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.AssemblyInfoInputs.cache
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.AssemblyInfo.cs
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.csproj.CoreCompileInputs.cache
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.dll
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\refint\csharp-animals.dll
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.pdb
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\csharp-animals.genruntimeconfig.cache
+C:\Users\bachs\Desktop\School\Mobile Application Development\Module 1 - Assignment B\csharp-animals\obj\Debug\net6.0\ref\csharp-animals.dll
